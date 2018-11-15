@@ -1,5 +1,7 @@
 # spring-boot-2-demo
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/joostvdg/spring-boot-2-demo/depshield.svg)](https://depshield.github.io)
+
 Based on these tutorias:
 
 * https://www.djamware.com/post/59be51e780aca768e4d2b140/tutorial-of-building-java-rest-api-using-spring-boot-and-mongodb
